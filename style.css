@@ -75,7 +75,7 @@ section{
     width:100%;
     background: url("https://d28rtuv7aawte3.cloudfront.net/uploads/thumbnails/course_thumbnails/course_thumbnail_efanew_42.jpg");
 background-size: cover;
-height: 260px;
+height: 250px;
     border-radius: 28px 28px 0 0;
 
 }
@@ -108,7 +108,7 @@ height: 260px;
     background: white;
     padding: 10px;
     box-sizing: border-box;
-    height: 400px;
+    height: 380px;
     border-radius: 0 0 28px 28px;
 }
 .info .sub-info1{
@@ -168,12 +168,11 @@ span i{
 button{
     border-radius: 27px;
     width: 170px;
-    padding: 13px;
+    padding:  10px 13px;
     font-size: 20px;
     color: white;
     background-color: #0d6efd;
     border-color: #0d6efd;
-    /* border: 2px slod #0d6efd; */
     outline: none;
 }
 .sub-info1 .foot1{
